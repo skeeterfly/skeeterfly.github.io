@@ -21,12 +21,12 @@ type: page
 </ul>
 ## 联系我们
 
-* GitHub：[wishteam]()
-* Email：wis@ruijie.com.cn
+* GitHub：[guojinwenv1.github.io]()
+* Email：jeevan0612@qq.com
 
 ## 更新日志
 
-* 2017.3.1 团队博客上线
+* 2017.3.1 博客上线
 
 ## 友情链接
 

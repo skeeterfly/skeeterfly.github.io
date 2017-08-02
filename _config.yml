@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: WishTeam
+title: skeeterFly
 brief-intro: 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://guojinwenv1.github.io" # the base hostname & protocol for your site
@@ -15,9 +15,9 @@ url: "https://guojinwenv1.github.io" # the base hostname & protocol for your sit
 permalink: /:year/:month/:day/:title/
 
 # other links
-twitter_username: WishTeam
+twitter_username: skeeterFly
 #facebook_username: 
-github_username:  WishTeam
+github_username:  skeeterFly
 email: jeevan0612@qq.com
 #weibo_username: 
 #zhihu_username: 
@@ -30,7 +30,7 @@ description_footer: 在工作中享受技术的乐趣！
 # two ways to comment, only choose one, and use your own short name
 # 两种评论插件，选一个就好了，使用自己的 short_name
 duoshuo_shortname: #wishteam
-disqus_shortname: https-wishteam-github-io
+disqus_shortname: #https-wishteam-github-io
 
 # statistic analysis 统计代码
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
