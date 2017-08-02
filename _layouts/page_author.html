@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<div class="page clearfix">
+    <div class="left">
+        <h2 style = "text-align: center;">{{page.title}}</h2>
+       
+        {{content}}
+    </div>
+	
+    <button class="anchor"><i class="fa fa-anchor"></i></button>
+    <div class="right">
+        <div class="wrap">
+            <!-- Content -->
+            <div class="side content">
+                <div>
+                    成员列表
+                </div>
+                <ul id="content-side" class="content-ul">
+					{% for author in site.pages %}
+						{%if author.author_name %}
+							<li>
+								<a href='{{ author.page_path }}'>{{ author.author_name | remove: ' '}}</a>
+							</li>
+						{%endif%}
+					{% endfor %}
+                </ul>
+            </div>
+            <!-- 其他div框放到这里 -->
+            <!-- <div class="side">bbbb</div> -->
+        </div>
+    </div>
+</div>
+<script src="{{ "/js/pageContent.js " | prepend: site.baseurl }}" charset="utf-8"></script>
