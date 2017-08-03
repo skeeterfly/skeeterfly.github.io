@@ -6,18 +6,18 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: skeeterFly
+title: SkeeterFly
 brief-intro: 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://guojinwenv1.github.io" # the base hostname & protocol for your site
+url: "https://skeeterfly.github.io" # the base hostname & protocol for your site
 
 #url标题格式
 permalink: /:year/:month/:day/:title/
 
 # other links
-twitter_username: skeeterFly
+#twitter_username: skeeterFly
 #facebook_username: 
-github_username:  skeeterFly
+github_username:  skeeterfly
 email: jeevan0612@qq.com
 #weibo_username: 
 #zhihu_username: 
