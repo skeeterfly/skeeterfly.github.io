@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  git存储用户名密码 
-categories: jekyll
+categories: 代码管理
 tags: git 版本管理 
 author: 郭金文
 ---
