@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  jekyll+markdown发表博文
+title:  jekyll & markdown发表博文
 categories: JavaScript
 tags:  jekyll Markdown
 
