@@ -19,9 +19,6 @@ jekyll是一个简单的免费的Blog生成工具，与其他博客生成工具�
 此外，jekyll还可以自己编辑网页生成自己独特风格的页面，也可以直接引用别人已经写好的theme，主题可以在：[http://themes.jekyllrc.org/](http://themes.jekyllrc.org/) 进行下载，在此非常感谢github上多位牛人的辛苦付出。
 更多关于jekyll博客系统的介绍，请到[jekyll网站](https://jekyllrb.com/)查看。
 
-## 关于本博客
-
-本团队博客([WishTeam](https://github.com/WishTeam/wishteam.github.io))主题支持团队多人发表博文，博客的theme会持续进行更新优化，优化的日志在团队介绍中的"更新日志"中说明，本博客theme可以点击页面下的联系我们进入我们的github主页进行下载,觉得本主题好的话，就给个star呗。博文使用kramdown插件对markdown标记语法进行解析，发表博文时按照markdown语法规范进行书写。可以使用markdown编辑器，如MaHua、sublineText、Marxico等,有条件的建议使用sublineText，可以预览效果，本文使用sublineText编辑。
 
 ## 博文发表
 
@@ -102,7 +99,7 @@ Markdown是一种可以使用普通文本编辑器编写的标记语言，通过
 ```java
 *文字*
 ```
-[超链接](https://wishteam.github.io)：
+[超链接](https://skeeterfly.coding.me)：
 ```
 [连接文字内容](http://超链接地址)：
 ```
