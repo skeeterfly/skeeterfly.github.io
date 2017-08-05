@@ -2,7 +2,7 @@
 layout: post 
 title:  jekyll & markdown发表博文
 categories: JavaScript
-tags:  jekyll Markdown 测试测试
+tags:  jekyll Markdown
 
 author: 郭金文
 
