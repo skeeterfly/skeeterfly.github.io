@@ -9,7 +9,9 @@ layout: default
         <hr>
         <ul>
             {% for post in paginator.posts %}
-              {% if post.categories == prose %}
+              {% if post.prose %}
+
+              {% else %}
               <li>
                 <h2>
                   <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
