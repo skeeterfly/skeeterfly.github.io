@@ -21,15 +21,15 @@ type: page
 </ul>
 ## 联系我们
 
-* GitHub：[skeeterfly.github.io]()
+* 个人主页：[skeeterfly.coding.me]()
 * Email：jeevan0612@qq.com
 
 ## 更新日志
 
-* 2017.3.1 博客上线
+* 2017.1.1 博客上线
 
 ## 友情链接
 
-[锐捷无线智能服务](http://wis.ruijie.com.cn)
+[还没有友情链接丫丫](http://baidu.com)
 
 
