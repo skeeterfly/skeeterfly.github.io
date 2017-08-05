@@ -36,7 +36,7 @@ disqus_shortname: #https-wishteam-github-io
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
 # xxxxx字符串
-baidu_tongji_id: 
+baidu_tongji_id: d0a2955eb91fd5af40c1eef275325c55
 google_analytics_id: 
 
 # Build settings
