@@ -2,7 +2,7 @@
 layout: post
 title:  git存储用户名密码 
 categories: 代码管理
-tags: git 版本管理 
+tags: git 版本管理 随手记
 author: 郭金文
 ---
 * content

@@ -2,7 +2,7 @@
 layout: post
 title:  jekyll+Markdown发表博文
 categories: jekyll
-tags:  jekyll Markdown
+tags:  jekyll Markdown 专题
 author: 郭金文
 ---
 * content
