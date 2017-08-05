@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: SkeeterFly
+title: SkeeterFly——蚊子飞啊飞
 brief-intro: 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://skeeterfly.github.io" # the base hostname & protocol for your site
@@ -24,7 +24,7 @@ email: jeevan0612@qq.com
 #linkedIn_username: gaohaoyang
 #dribbble_username:
  
-description_footer: 在工作中享受技术的乐趣！
+description_footer: 我不会告诉你我是一只逗逼的程序猿。
 
 # comments
 # two ways to comment, only choose one, and use your own short name
