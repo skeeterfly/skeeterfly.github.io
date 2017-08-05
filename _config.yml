@@ -9,7 +9,7 @@
 title: SkeeterFly——蚊子飞啊飞
 brief-intro: 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://skeeterfly.github.io" # the base hostname & protocol for your site
+url: "https://skeeterfly.coding.me" # the base hostname & protocol for your site
 
 #url标题格式
 permalink: /:year/:month/:day/:title/
