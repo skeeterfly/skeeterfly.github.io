@@ -4,6 +4,7 @@ title:  git push同步多个仓库
 categories: 诗与远方
 tags: git 版本管理 随手记
 author: 郭金文
+prose: true
 ---
 * content
 {:toc}
