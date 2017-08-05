@@ -58,7 +58,7 @@ layout: default
                 {% for thisTag in page.tags %}
                     {% if postHasSimilar == false and hasSimilar.size < 6 and post != page and tag == thisTag %}
                         {% if hasSimilar.size == 0 %}
-                        <h2 id="similar_posts">相关推荐</h2>
+                        <h2 id="similar_posts" style="margin-top:50px;clear: both;">相关推荐</h2>
                         <ul>
                         {% endif %}
                         <li class="relatedPost">
