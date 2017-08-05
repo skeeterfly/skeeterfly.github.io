@@ -26,6 +26,8 @@ email: jeevan0612@qq.com
  
 description_footer: 我不会告诉你我是一只逗逼的程序猿。。。
 
+prose: 诗与远方
+
 # comments
 # two ways to comment, only choose one, and use your own short name
 # 两种评论插件，选一个就好了，使用自己的 short_name
@@ -64,5 +66,5 @@ collections:
 
 # paginate
 gems: [jekyll-paginate]
-paginate: 6
+paginate: 20
 
