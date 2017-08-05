@@ -9,7 +9,7 @@ layout: default
         <hr>
         <ul>
             {% for post in paginator.posts %}
-              {% if post.categories!=诗与远方 %}  
+              {% if post.categories!="诗与远方" %}  
               <li>
                 <h2>
                   <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
