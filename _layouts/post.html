@@ -50,7 +50,8 @@ layout: default
 		</script>
 		<script type="text/javascript" src="http://v3.jiathis.com/code_mini/jia.js?uid=2140728" charset="utf-8"></script>
 		<!-- JiaThis Button END -->
-
+		
+		<div style="clear: both; margin-top:5px"></div>
         {% assign hasSimilar = '' %}
         {% for post in site.related_posts %}
             {% assign postHasSimilar = false %}
@@ -58,7 +59,7 @@ layout: default
                 {% for thisTag in page.tags %}
                     {% if postHasSimilar == false and hasSimilar.size < 6 and post != page and tag == thisTag %}
                         {% if hasSimilar.size == 0 %}
-                        <h2 id="similar_posts" style="margin-top:50px;clear: both;">相关推荐</h2>
+                        <h2 id="similar_posts" style="margin-top:50px;">相关推荐</h2>
                         <ul>
                         {% endif %}
                         <li class="relatedPost">
