@@ -8,7 +8,7 @@
 # Site settings
 title: SkeeterFly—蚊子飞啊飞
 brief-intro: 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "https://skeeterfly.github.io/" # the subpath of your site, e.g. /blog
 url: "https://skeeterfly.coding.me" # the base hostname & protocol for your site
 
 #url标题格式
