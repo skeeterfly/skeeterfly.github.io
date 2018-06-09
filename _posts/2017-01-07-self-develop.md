@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  fastjson 变量驼峰形式与下划线互转
-categories: 编程基础
+title:  程序员的自我修养
+categories: 学习成长
 tags: java json处理 工具类 序列化
 author: 郭金文
 ---
