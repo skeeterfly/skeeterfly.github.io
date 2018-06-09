@@ -2,7 +2,7 @@
 layout: post
 title:  程序员的自我修养
 categories: 学习成长
-tags: java json处理 工具类 序列化
+tags: 学习 成长 责任
 author: 郭金文
 ---
 * content
