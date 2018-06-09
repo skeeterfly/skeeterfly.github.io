@@ -16,6 +16,7 @@ author: 郭金文
 
 
 
+
 ## duty、personality、kindheart
 
   除了专业的技术自我成长，打造过硬的专业技术外。个人的品格、毅力、人格魅力的培养也不可缺少。
