@@ -1,0 +1,1 @@
+ SELECT ST."area" AS a, SUM(ST."num") AS s FROM "com_cnc_cs"."analytical_stat_detail_day" AS ST  WHERE ST."time" >= ? AND ST."time" < ?  AND (  ST."domain" IN ('www.wudunxin.com' )  )  AND ST."area" != 'Other'  GROUP BY ST."area" ORDER BY ST."area" 
