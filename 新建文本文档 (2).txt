@@ -1,0 +1,28 @@
+时间范围查询参数：
+格式:“yyyy-MM-dd HH:mm:ss”,建议开始时间 HH:mm:ss为  “00:00:00”，结束时间"23:59:59"
+开始时间：startTime;
+结束时间：endTime;
+
+--------------------
+
+domainList: 'report-domain/1/domainList.html',
+recordList: 'report-domain/1/recordList.html'
+
+按省份汇总统计：
+api: 'report-map-v2/1/provinceReport.html',
+
+查询结果返回：
+
+-----------------------
+
+
+各个国家汇总统计：
+api: 'report-map-v2/1/countryReport.html',
+
+
+导出中国地图csv报告，传入的参数跟点击查询的时传入的参数一致。
+
+查询结果返回：
+
+
+
